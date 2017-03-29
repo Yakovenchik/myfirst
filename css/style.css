@@ -1,0 +1,62 @@
+body{
+	margin: auto;
+  width: 1280px;
+  height: 3595px;
+}
+.header{
+	color: white;
+}
+.header h4{
+	font-family: Gotham;
+	position:absolute;
+	letter-spacing: 2px;
+	top: 59px;
+}
+.header button{
+	background-color: #16a085;
+	font-family: Gotham;
+	font-size: 17px;
+	letter-spacing: 1px;
+	width: 165px;
+	height: 50px;
+	position: absolute;
+	top: 437px;
+	left: 566px	;
+	border:none;
+	border-radius: 3px;
+	color: white;
+}
+.div1 button{
+	background-color: #16a085;
+	font-family: Gotham;
+	font-size: 13px;
+	letter-spacing: 1px;
+	width: 195px;
+	height: 50px;
+	position: relative;
+	top: 161px;
+	left: 129px	;
+	border:none;
+	border-radius: 3px;
+	color: white;
+}
+.upper{
+	text-transform: uppercase;
+	font-family: Gotham;
+	letter-spacing: 3px;
+}
+.alcenter{
+	text-align: center
+}
+.div5{
+	text-transform: uppercase;
+	font-family: Gotham;
+	letter-spacing: 3px;
+	text-align: center
+}
+.color{
+	color:  #16a085;
+}
+@font-face {
+  font-family: "Gotham";
+  src: url("../font/GothamRounded-book.otf"); }
